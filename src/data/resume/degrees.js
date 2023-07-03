@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
+    school: 'Emory University School of Law',
+    degree: 'Juris Doctorate, Law',
+    link: 'https://law.emory.edu/',
     year: 2016,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'Johns Hopkins University',
+    degree: 'Bachelor of Arts, International Relations (Economics Minor)',
+    link: 'https://jhu.edu',
     year: 2012,
   },
 ];

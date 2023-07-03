@@ -1,13 +1,17 @@
 
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 60,000,000 people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am an AP/IB mathematics and computer science teacher by profession, [member](https://iapps.courts.state.ny.us/attorneyservices/wicket/page/DetailsPage?3) of the New York State Bar Association, and coder for a pastime. Having lived in the Middle East and Latin America, 
+I speak Hebrew, Arabic, Spanish, (and English) at various levels. 
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- I grew up in New York City, went to high school at Bronx Science, and even played basketball
+with the varsity team, which gave me my first [New York Times appearance](https://www.nytimes.com/2000/02/19/nyregion/basketball-nerds-get-last-laugh-boys-bronx-science-find-they-re-winning-team.html)
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- At Johns Hopkins University, I studied a year abroad in Israel, where I studied at [Ben Gurion University](https://in.bgu.ac.il/en/pages/default.aspx), while living with my grandfather on the weekends.
+
+- I graduated a semester early, which allowed me to start my Israeli military service in the spring of 2005. 
 
 - In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
 

@@ -3,20 +3,32 @@ import PropTypes from 'prop-types';
 
 import Job from './Experience/Job';
 
-const Experience = ({ data }) => (
-  <div className="experience">
-    <div className="link-to" id="experience" />
-    <div className="title">
-      <h3>Experience</h3>
+const Experience = ({ data }) => {
+  // Get unique categories
+  const categories = [...new Set(data.map((job) => job.category))];
+
+  return (
+    <div className="experience">
+      <div className="link-to" id="experience" />
+      <div className="title">
+        <h3>Professional History</h3>
+      </div>
+      {categories.map((category) => (
+        <div key={category}>
+          <h4 className="h4-background">{category}</h4> {/* Render category as a subsection */}
+          {data
+            .filter((job) => job.category === category)
+            .map((job) => (
+              <Job
+                data={job}
+                key={`${job.name}-${job.position}`}
+              />
+            ))}
+        </div>
+      ))}
     </div>
-    {data.map((job) => (
-      <Job
-        data={job}
-        key={`${job.name}-${job.position}`}
-      />
-    ))}
-  </div>
-);
+  );
+};
 
 Experience.propTypes = {
   data: PropTypes.arrayOf(PropTypes.exact({
