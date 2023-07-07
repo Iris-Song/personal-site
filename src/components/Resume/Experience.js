@@ -11,7 +11,7 @@ const Experience = ({ data }) => {
     <div className="experience">
       <div className="link-to" id="experience" />
       <div className="title">
-        <h3>Professional History</h3>
+        <h3>Career</h3>
       </div>
       {categories.map((category) => (
         <div key={category}>
