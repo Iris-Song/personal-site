@@ -45,7 +45,7 @@ const work = [
   },
   {
     name: 'Florida International University',
-    position: 'National Science Foundation Research Experience for Teachers Fellow',
+    position: 'Research Experience for Teachers Fellow',
     url: 'https://it2.fiu.edu/IT2_RET.php',
     startDate: '2019-06-24',
     endDate: '2022-08-01',

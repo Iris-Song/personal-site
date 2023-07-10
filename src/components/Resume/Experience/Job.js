@@ -8,7 +8,7 @@ const Job = ({
     name, position, url, startDate, endDate, summary, highlights,
   },
 }) => (
-  <article className="jobs-container">
+  <article className="bold-h4-container">
     <header>
       <h4><a href={url}>{name}</a> - {position}</h4>
       <p className="daterange"> {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}</p>

@@ -22,8 +22,8 @@ const SideBar = () => (
       <p>Hi, I&apos;m Ilan: math and computer science teacher, attorney, and former paratrooper.
         For my day job, I teach AP Calculus at <a href="https://seminolehs.scps.k12.fl.us/">Seminole High School</a>
         in Florida. Online, I teach IB and AP Computer Science. I hold degrees from
-        <a href="https://law.emory.edu/">Emory University School of Law</a> and
-        <a href="https://www.jhu.edu/">Johns Hopkins University. </a>
+        <a href="https://law.emory.edu/"> Emory University School of Law</a> and
+        <a href="https://www.jhu.edu/"> Johns Hopkins University. </a>
         To hone my math and computer science skills,
         I enjoy various coding projects and solving actuarial problems.
       </p>
