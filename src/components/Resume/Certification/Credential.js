@@ -2,9 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Credential = ({ data }) => (
-  <article className="bold-h4-container">
+  <article className={`bold-h4-container ${data.field}`}>
     <header>
       <h4>{data.title}</h4>
+      <h5>{data.field}</h5>
       <p>{data.agency}, {data.year}</p>
     </header>
   </article>

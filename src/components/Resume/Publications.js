@@ -1,24 +1,24 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Credential from './Certification/Credential';
+import Publication from './Citation/Publication';
 
-const Certifications = ({ data }) => (
+const Publications = ({ data }) => (
 
   <div className="education">
     <div className="link-to" id="education" />
     <div className="title">
-      <h3>Certifications</h3>
+      <h3>Publications</h3>
     </div>
-    {data.map((cert) => (
-      <Credential
-        data={cert}
+    {data.map((citation) => (
+      <Publication
+        data={citation}
       />
     ))}
   </div>
 );
 
-Certifications.propTypes = {
+Publications.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     agency: PropTypes.string,
@@ -27,8 +27,8 @@ Certifications.propTypes = {
   })),
 };
 
-Certifications.defaultProps = {
+Publications.defaultProps = {
   data: [],
 };
 
-export default Certifications;
+export default Publications;
