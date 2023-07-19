@@ -6,9 +6,9 @@ import Publication from './Citation/Publication';
 const Publications = ({ data }) => (
 
   <div className="education">
-    <div className="link-to" id="education" />
+    <div className="link-to" id="publications" />
     <div className="title">
-      <h3>Publications</h3>
+      <h3>Publication</h3>
     </div>
     {data.map((citation) => (
       <Publication

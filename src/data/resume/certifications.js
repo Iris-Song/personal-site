@@ -42,7 +42,7 @@ const certifactions = [
     field: 'education',
   },
   {
-    title: 'Social Science',
+    title: 'Social Science 6-12',
     agency: 'Florida Department of Education',
     year: '2016',
     field: 'education',

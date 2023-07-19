@@ -6,7 +6,7 @@ import Credential from './Certification/Credential';
 const Certifications = ({ data }) => (
 
   <div className="education">
-    <div className="link-to" id="education" />
+    <div className="link-to" id="certifications" />
     <div className="title">
       <h3>Certifications</h3>
     </div>

@@ -7,7 +7,6 @@ import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
-import References from '../components/Resume/References';
 import Certifications from '../components/Resume/Certifications';
 import Publications from '../components/Resume/Publications';
 
@@ -26,7 +25,6 @@ const sections = {
   Courses: () => <Courses data={courses} />,
   Publications: () => <Publications data={publications} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
-  References: () => <References />,
 };
 
 const Resume = () => (
@@ -39,10 +37,11 @@ const Resume = () => (
         <div className="title">
           <h2><Link to="resume">Resume</Link></h2>
           <div className="link-container">
-            {Object.keys(sections).map((sec) => (
+            {Object.keys(sections).map((sec, index, array) => (
               <h4 key={sec}>
-                <a href={`#${sec.toLowerCase()}`}>{sec}</a>
-              </h4>))}
+                <a href={`#${sec.toLowerCase()}`}>{sec}{index !== array.length - 1 && '\u00A0\u00A0~'}</a>
+              </h4>
+            ))}
           </div>
         </div>
       </header>

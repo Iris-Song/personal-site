@@ -5,6 +5,11 @@ const skills = [
     category: ['Pedagogy'],
   },
   {
+    title: 'Legal Research',
+    competency: 6,
+    category: ['Law'],
+  },
+  {
     title: 'Javascript',
     competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
