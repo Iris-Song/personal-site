@@ -12,7 +12,9 @@ Having lived in the Middle East and Latin America, I speak Hebrew, Arabic, Spani
 - [Arts & Letters Daily](https://www.aldaily.com/)
 - [The New York Times](https://www.nytimes.com/)
 - [ידיעות אחרונות](https://www.ynet.co.il/home/0,7340,L-8,00.html)
+- [7 ערוץ](https://www.inn.co.il/)
 - [الشرق الاوسط](https://aawsat.com/)
+- [العربية](https://www.alarabiya.net//)
 
 # Check out some of the books I read
 - Eggers, D. The Monk of Mokha. 
