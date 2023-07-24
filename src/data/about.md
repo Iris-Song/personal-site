@@ -5,7 +5,13 @@ I am an AP/IB mathematics and computer science teacher by profession, a trained 
 <br/><br/>
 Having lived in the Middle East and Latin America, I speak Hebrew, Arabic, Spanish, (and English) at various levels. 
 
-
+# On my browswer's bookmar bar
+- [Hacker News](https://news.ycombinator.com/)
+- [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+- [Quanta magazine](https://www.quantamagazine.org/)
+- [Arts & Lettets Daily] (https://www.aldaily.com/)
+- [The New York Times](https://www.nytimes.com/)
+- [ידיעות אחרונות](https://www.ynet.co.il/home/0,7340,L-8,00.html)
 
 # Check out some of the books I read
 - Eggers, D. The Monk of Mokha.
