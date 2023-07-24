@@ -9,12 +9,13 @@ Having lived in the Middle East and Latin America, I speak Hebrew, Arabic, Spani
 - [Hacker News](https://news.ycombinator.com/)
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 - [Quanta magazine](https://www.quantamagazine.org/)
-- [Arts & Lettets Daily] (https://www.aldaily.com/)
+- [Arts & Letters Daily](https://www.aldaily.com/)
 - [The New York Times](https://www.nytimes.com/)
 - [ידיעות אחרונות](https://www.ynet.co.il/home/0,7340,L-8,00.html)
+- [الشرق الاوسط](https://aawsat.com/)
 
 # Check out some of the books I read
-- Eggers, D. The Monk of Mokha.
+- Eggers, D. The Monk of Mokha. 
 - de Bernières, L. The War of Don Emmanuel's Nether Parts.
 - Ghosh, A. The Glass Palace. Random House.
 - Derbyshire, J. Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics.
