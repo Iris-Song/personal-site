@@ -39,7 +39,7 @@ Main.defaultProps = {
   children: null,
   fullPage: false,
   title: null,
-  description: "Ilan Grapel's personal website.",
+  description: "Ziming Song's personal website.",
 };
 
 export default Main;
