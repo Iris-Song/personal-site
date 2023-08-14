@@ -1,46 +1,45 @@
 
-# In short
+# Intro
 
-I am an AP/IB mathematics and computer science teacher by profession, a trained attorney and [member](https://iapps.courts.state.ny.us/attorneyservices/wicket/page/DetailsPage?3) of the New York State Bar Association, and amature coder with aspirations to combine my various skillsets. 
-<br/><br/>
-Having lived in the Middle East and Latin America, I speak Hebrew, Arabic, Spanish, (and English) at various levels. 
+I am a junior developer, a graduate student in [New York University Tandon School of Engineering](https://engineering.nyu.edu/academics/programs/computer-science-ms). Before NYU, I studied computer science at [Tongji University](https://cs.tongji.edu.cn/main.htm). I love to try something new, interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
 
-# On my browswer's bookmar bar
-- [Hacker News](https://news.ycombinator.com/)
-- [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
-- [Quanta magazine](https://www.quantamagazine.org/)
-- [Arts & Letters Daily](https://www.aldaily.com/)
-- [The New York Times](https://www.nytimes.com/)
-- [ידיעות אחרונות](https://www.ynet.co.il/home/0,7340,L-8,00.html)
-- [7 ערוץ](https://www.inn.co.il/)
-- [الشرق الاوسط](https://aawsat.com/)
-- [العربية](https://www.alarabiya.net//)
+# Some history
 
-# Check out some of the books I read
-- Eggers, D. The Monk of Mokha. 
-- de Bernières, L. The War of Don Emmanuel's Nether Parts.
-- Ghosh, A. The Glass Palace. Random House.
-- Derbyshire, J. Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics.
-- Singer, Peter, Animal Liberation
-- נסים דנה, למי שייכת הארץ הזאת
-- ישראלי מאיר לאו, אל תשלח ידך אל הנער
-- יוכי רנדיס, שבע אימהות
-- חיים שפירא, אינסוף המסע שאינו נגמר
-- דוד גרוסמן, דבש אריות סיפור שמשון
-- [And a link to an almost full list](https://www.goodreads.com/user/show/18987015-ilan-grapel)
+- I was born in China in 2001 and grew up in Shandong. When I was in elementary school, I took an extracurricular interest class in web design, which was the beginning of my exposure to computers.
 
+- I finished my high school in Linzhi No.1 middle school in Tibet. In 2019, I was admitted to the university with the first place in science in Linzhi City.
 
-# Places that I lived ( > 2 months)
+- In the summer of 2019, I came to Tongji University studying computer science, where I started learning coding. I have to say it is really difficult for me at the beginning.
 
-- New York
-- Baltimore
-- Atlanta
-- Miami
-- Israel
-- Egypt
-- Australia
-- Northern Ireland
-- Colombia
-- Panama
-- [And a link to a map of the places I lived and visited ](https://www.google.com/maps/d/u/0/edit?mid=1fSC45JHuEUo_3wVEstEqgozxUZ8ZZ44&ll=-1.2652579310428749%2C0&z=2)
+- In my sophomore and junior years, I minored in industrial design in Tongji University and got a certificate.
 
+- In junior year, I did research in ADMIS Lab in Tongji University under the guidance of Dr. Wengen Li.
+
+- In senior year, I did internship in Microsoft and NIO in Shanghai and finished my graduation project about gesture classification.
+
+Ask me in person for other stories that I'm afraid to share with the internet.
+
+# I like
+
+- Running
+- Swimming
+- Art
+- Photography
+- Space
+- [Books & Movies & Music](https://www.douban.com/people/270816141/)
+- Cute Animals
+
+# Fun facts
+
+- Many of my frirends and classmates say I'm like [Flash](https://disney.fandom.com/wiki/Flash) in movie [Zootopia](https://en.wikipedia.org/wiki/Zootopia). And that's why I choose Flash as my Github profile picture.
+- Often get lost, even in my hometown.
+- I can't locate every country on a map.
+- I love cats and dogs but never had one over three months.
+
+# I dream of
+
+- 自由。
+- doing better.
+- always finding inspiration.
+- soulmate(s).
+- enabling a better world.
