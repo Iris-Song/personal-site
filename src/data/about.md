@@ -33,7 +33,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - Many of my frirends and classmates say I'm like [Flash](https://disney.fandom.com/wiki/Flash) in movie [Zootopia](https://en.wikipedia.org/wiki/Zootopia). And that's why I choose Flash as my Github profile picture.
 - Often get lost, even in my hometown.
-- I can't locate every country on a map.
 - I love cats and dogs but never had one over three months.
 
 # I dream of
