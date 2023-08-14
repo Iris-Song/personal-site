@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1983-08-10T06:24:00');
+    const birthTime = new Date('2001-02-03T06:24:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current location',
-    value: 'Florida',
+    value: 'New York City',
   },
 ];
 

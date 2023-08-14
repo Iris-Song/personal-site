@@ -12,20 +12,19 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Ilan Grapel</h2>
-        <p><a href="mailto:ilan.grapel@gmail.com">ilan.grapel@gmail.com</a></p>
+        <h2>Ziming Song</h2>
+        <p><a href="mailto:a1158288818@icloud.com">a1158288818@icloud.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Ilan: math and computer science teacher, attorney, and former paratrooper.
-        For my day job, I teach AP Calculus at <a href="https://seminolehs.scps.k12.fl.us/">Seminole High School</a>
-        in Florida. Online, I teach IB and AP Computer Science. I hold degrees from
-        <a href="https://law.emory.edu/"> Emory University School of Law</a> and
-        <a href="https://www.jhu.edu/"> Johns Hopkins University. </a>
-        To hone my math and computer science skills,
-        I enjoy various coding projects and solving actuarial problems.
+      <p>Hi, I&apos;m Ziming. I am a junior developer,
+        <a href="https://engineering.nyu.edu/academics/programs/computer-science-ms"> NYU MSCS</a> graduate,
+        and <a href="https://cs.tongji.edu.cn/main.htm">Tongji University</a> Alumni.
+        Previously, I was an intern
+        at <a href="https://www.microsoft.com/">Microsoft</a> and <a href="https://www.nio.com/">NIO</a>.
+        I enjoy coding and solving actuarial problems.
       </p>
       <ul className="actions">
         <li>

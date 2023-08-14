@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: 'Ilan Grapel',
+    label: 'Ziming Song',
     path: '/',
   },
   {
