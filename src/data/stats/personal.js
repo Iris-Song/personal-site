@@ -5,8 +5,8 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('2001-02-03T06:24:00');
-    setAge(((Date.now() - birthTime) / divisor).toFixed(11));
+    const birthTime = new Date('2001-02-03T08:00:00');
+    setAge(Math.floor(((Date.now() - birthTime) / divisor)));
   };
 
   useEffect(() => {
@@ -24,13 +24,13 @@ const data = [
     label: 'Current age',
     value: <Age />,
   },
-  {
-    key: 'countries',
-    label: 'Countries Lived and Visited',
-    value: 19,
-    link:
-      'https://www.google.com/maps/d/u/0/edit?mid=1fSC45JHuEUo_3wVEstEqgozxUZ8ZZ44&usp=sharing',
-  },
+  // {
+  //   key: 'countries',
+  //   label: 'Countries Lived and Visited',
+  //   value: 19,
+  //   link:
+  //     'https://www.google.com/maps/d/u/0/edit?mid=1fSC45JHuEUo_3wVEstEqgozxUZ8ZZ44&usp=sharing',
+  // },
   {
     key: 'location',
     label: 'Current location',

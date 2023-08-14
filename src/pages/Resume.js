@@ -8,23 +8,26 @@ import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import Certifications from '../components/Resume/Certifications';
-import Publications from '../components/Resume/Publications';
+import Scholarship from '../components/Resume/Scholarship';
+// import Publications from '../components/Resume/Publications';
 
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
 import certifications from '../data/resume/certifications';
-import publications from '../data/resume/publications';
+import scholarship from '../data/resume/scholarship';
+// import publications from '../data/resume/publications';
 import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
-  Career: () => <Experience data={work} />,
+  Experience: () => <Experience data={work} />,
   Education: () => <Education data={degrees} />,
   Certifications: () => <Certifications data={certifications} />,
-  Courses: () => <Courses data={courses} />,
-  Publications: () => <Publications data={publications} />,
+  Scholarship: () => <Scholarship data={scholarship} />,
+  // Publications: () => <Publications data={publications} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
+  Courses: () => <Courses data={courses} />,
 };
 
 const Resume = () => (

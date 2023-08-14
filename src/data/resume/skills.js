@@ -1,63 +1,63 @@
 const skills = [
   {
-    title: 'Teaching',
-    competency: 6,
-    category: ['Pedagogy'],
+    title: 'C++',
+    competency: 3,
+    category: ['Object Oriented Programming', 'Languages', 'C++'],
   },
   {
-    title: 'Legal Research',
-    competency: 6,
-    category: ['Law'],
+    title: 'C',
+    competency: 3,
+    category: ['Languages', 'C'],
   },
   {
     title: 'Javascript',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Java',
-    competency: 5,
+    competency: 2,
     category: ['Object Oriented Programming', 'Languages', 'Java'],
   },
   {
     title: 'React',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'MongoDB',
+    title: 'Vue',
+    competency: 3,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
+    title: 'MySQL',
     competency: 3,
     category: ['Web Development', 'Databases'],
   },
   {
     title: 'Spring Boot',
-    competency: 4,
+    competency: 2,
     category: ['Object Oriented Programming', 'Web Development'],
   },
   {
-    title: 'Numpy',
-    competency: 3,
-    category: ['Data Engineering', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 2,
-    category: ['ML Engineering', 'Python'],
-  },
-  {
     title: 'HTML + CSS',
-    competency: 3,
+    competency: 5,
     category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'D3',
+    competency: 3,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
+    title: 'Flask',
+    competency: 2,
+    category: ['Web Development', 'Python'],
   },
   {
     title: 'Python',
     competency: 5,
-    category: ['Languages', 'Python', 'ML Engineering', 'Object Oriented Programming'],
-  },
-  {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
+    category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
     title: 'Data Visualization',
@@ -65,14 +65,34 @@ const skills = [
     category: ['Data Engineering', 'Javascript'],
   },
   {
-    title: 'Pandas',
-    competency: 3,
-    category: ['Data Engineering', 'Python'],
+    title: 'Django',
+    competency: 2,
+    category: ['Web Development', 'Python'],
   },
   {
-    title: 'Matplotlib',
+    title: 'Git',
     competency: 3,
-    category: ['Data Engineering', 'Python'],
+    category: ['Tools'],
+  },
+  {
+    title: 'MATLAB',
+    competency: 1,
+    category: ['Languages'],
+  },
+  {
+    title: 'Spark',
+    competency: 2,
+    category: ['Data Engineering', 'ML Engineering'],
+  },
+  {
+    title: 'Power Automate',
+    competency: 2,
+    category: ['Tools'],
+  },
+  {
+    title: 'Microsoft Office',
+    competency: 3,
+    category: ['Tools'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

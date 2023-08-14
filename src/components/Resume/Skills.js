@@ -61,8 +61,6 @@ const Skills = ({ skills, categories }) => {
       <div className="link-to" id="skills" />
       <div className="title">
         <h3>Skills</h3>
-        <p>Note: I don&apos;t find this particularly meaningful; it is just a self-assessment.
-        </p>
       </div>
       <div className="skill-button-container">
         {getButtons()}

@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Emory University School of Law',
-    degree: 'Juris Doctorate, Law',
-    link: 'https://law.emory.edu/',
-    year: 2016,
+    school: 'New York University',
+    degree: 'Master of Science',
+    link: 'https://www.nyu.edu/',
+    year: 2025,
   },
   {
-    school: 'Johns Hopkins University',
-    degree: 'Bachelor of Arts, International Relations (Economics Minor)',
-    link: 'https://jhu.edu',
-    year: 2012,
+    school: 'Tongji University',
+    degree: 'Bachelor of Engineering',
+    link: 'https://www.tongji.edu.cn/',
+    year: 2023,
   },
 ];
 
