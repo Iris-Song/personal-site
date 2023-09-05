@@ -3,6 +3,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 // import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 // import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faYoutube } from '@fortawesome/free-regular-svg-icons/faYoutube';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -33,6 +34,11 @@ const data = [
   //   label: 'Twitter',
   //   icon: faTwitter,
   // },
+  {
+    link: 'https://www.youtube.com/@iris5734',
+    label: 'Youtube',
+    icon: faYoutube,
+  },
   {
     link: 'mailto:a1158288818@icloud.com',
     label: 'Email',
