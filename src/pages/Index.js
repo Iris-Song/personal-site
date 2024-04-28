@@ -16,7 +16,9 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Welcome to {' Ziming\'s'} website.
+      </p>
+      <p> Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         {/**  <Link to="/projects">projects</Link>, {' '} */}

@@ -1,18 +1,38 @@
 const skills = [
   {
+    title: 'Go',
+    competency: 3,
+    category: ['Languages', 'Backend'],
+  },
+  {
+    title: 'Ruby',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
     title: 'C++',
     competency: 3,
-    category: ['Object Oriented Programming', 'Languages', 'C++'],
+    category: ['Object Oriented Programming', 'Languages', 'Backend', 'Game Development'],
   },
   {
     title: 'C',
     competency: 3,
-    category: ['Languages', 'C'],
+    category: ['Languages', 'Backend'],
+  },
+  {
+    title: 'C#',
+    competency: 2,
+    category: ['Languages', 'Object Oriented Programming', 'Backend', 'Game Development'],
   },
   {
     title: 'Javascript',
     competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Development', 'Languages', 'Frontend'],
+  },
+  {
+    title: 'Typescript',
+    competency: 3,
+    category: ['Web Development', 'Languages', 'Frontend'],
   },
   {
     title: 'Java',
@@ -22,12 +42,12 @@ const skills = [
   {
     title: 'React',
     competency: 4,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Javascript', 'Frontend', 'Framework'],
   },
   {
     title: 'Vue',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Javascript', 'Frontend', 'Framework'],
   },
   {
     title: 'MySQL',
@@ -35,19 +55,19 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'Spring Boot',
+    title: 'PostgreSQL',
+    competency: 3,
+    category: ['Web Development', 'Databases'],
+  },
+  {
+    title: 'Springboot',
     competency: 2,
-    category: ['Object Oriented Programming', 'Web Development'],
+    category: ['Web Development', 'Java', 'Backend', 'Framework'],
   },
   {
     title: 'HTML + CSS',
     competency: 5,
     category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'D3',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Flask',
@@ -67,7 +87,7 @@ const skills = [
   {
     title: 'Django',
     competency: 2,
-    category: ['Web Development', 'Python'],
+    category: ['Web Development', 'Python', 'Framework', 'Backend'],
   },
   {
     title: 'Git',
@@ -81,7 +101,12 @@ const skills = [
   },
   {
     title: 'Spark',
-    competency: 2,
+    competency: 3,
+    category: ['Data Engineering', 'ML Engineering'],
+  },
+  {
+    title: 'Hadhoop',
+    competency: 3,
     category: ['Data Engineering', 'ML Engineering'],
   },
   {
@@ -93,6 +118,21 @@ const skills = [
     title: 'Microsoft Office',
     competency: 3,
     category: ['Tools'],
+  },
+  {
+    title: 'AWS',
+    competency: 4,
+    category: ['Tools', 'Cloud', 'Platform', 'Web Development'],
+  },
+  {
+    title: 'Azure',
+    competency: 3,
+    category: ['Tools', 'Cloud', 'Platform', 'Web Development'],
+  },
+  {
+    title: 'OpenGL',
+    competency: 2,
+    category: ['Tools', 'Game Development'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

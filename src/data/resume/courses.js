@@ -1,5 +1,15 @@
 const courses = [
   {
+    title: 'Web Search Engine',
+    number: 'CS-GY6913',
+    link: 'https://engineering.nyu.edu/%E2%88%BCsuel/cs6913/',
+    university: 'New York University',
+  },
+  {
+    title: 'AR & VR',
+    university: 'New York University',
+  },
+  {
     title: 'Introduction to Computer Science',
     number: 'CS100383',
     link: 'http://cs1.tongji.edu.cn/courses/CS100383/',
@@ -45,7 +55,7 @@ const courses = [
   },
   {
     title: 'Computer Network',
-    university: 'Tongji University',
+    university: 'Tongji University, New York University',
   },
 ];
 

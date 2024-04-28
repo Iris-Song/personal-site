@@ -1,47 +1,45 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Web Search Engine',
+    subtitle: 'build a small google from 0 to 1',
+    link: 'https://github.com/Iris-Song/Web-Search-Engines',
+    image: '/images/projects/wse.png',
+    date: '2023-12-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built a search engine based on 10+GB dataset from 0 to 1, including web crawler, indexer, and query processor.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'EMG system based on Action Recognition',
+    subtitle: 'Action Recognition and Rehabilitation Application based on Electromyographic Bracelet',
+    link: 'https://github.com/Iris-Song/Action-Recognition-and-Rehabilitation-Application-based-on-Electromyographic-Bracelet',
+    image: '/images/projects/emg.png',
+    date: '2023-06-28',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Based on the multi-lead surface EMG signal collected by the electromyographic bracelet, '
+      + 'its features are extracted, and the pattern classification method is used to identify the human hand action muscle mode corresponding to the signal feature, '
+      + 'and then realize the human action recognition function.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Historical Live Action Role Playing Game',
+    subtitle: 'Won Shanghai Innovation and Entrepreneurship Competition',
+    link: 'https://www.youtube.com/watch?v=AVWwFHVsNfY',
+    image: '/images/projects/game-shanghai.png',
+    date: '2022-03-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Using Kinect & TouchDesigner in historical Live Action Role Playing games. '
+      + 'The story is based on real Chinese history. '
+      + 'And we hope to combine new interaction technology with history education to help teenagers better involved in.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Bomber Man',
+    subtitle: 'Classic bomber man game using C++ and OpenGL',
+    link: 'https://github.com/Iris-Song/BomberMan',
+    image: '/images/projects/bomberman.png',
+    date: '2021-12-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Implement game logic with consice Ul design and fine CG effect. '
+      + 'Using related CG techniques like 3D model loading, multiple light rendering, shadow mapping based on SDL and openGL.',
   },
 ];
 

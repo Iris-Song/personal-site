@@ -10,7 +10,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'a1158288818',
+  'zimmingsong',
 ];
 
 const useInterval = (callback, delay) => {

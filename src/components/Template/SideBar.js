@@ -13,18 +13,18 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Ziming Song</h2>
-        <p><a href="mailto:a1158288818@icloud.com">a1158288818@icloud.com</a></p>
+        <p><a href="mailto:zimmingsong@icloud.com">zimmingsong@icloud.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Ziming. I am a junior developer,
-        <a href="https://engineering.nyu.edu/academics/programs/computer-science-ms"> NYU MSCS</a> graduate,
-        and <a href="https://cs.tongji.edu.cn/main.htm">Tongji University</a> Alumni.
-        Previously, I was an intern
-        at <a href="https://www.microsoft.com/">Microsoft</a> and <a href="https://www.nio.com/">NIO</a>.
-        I enjoy coding and solving actuarial problems.
+      <p>Hi, I&apos;m Ziming(子铭), a junior developer, a CS graduate student in {' '}
+        <a href="https://engineering.nyu.edu/academics/programs/computer-science-ms">NYU</a>.
+        Now I intern in <a href="https://www.tiktok.com/">TikTok</a>.
+        Previously, I worked in {' '}
+        <a href="https://www.microsoft.com/">Microsoft</a> and <a href="https://www.nio.com/">NIO</a>.
+        I enjoy exploring the world and connecting people :)
       </p>
       <ul className="actions">
         <li>

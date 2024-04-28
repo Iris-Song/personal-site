@@ -40,7 +40,7 @@ const data = [
     icon: faYoutube,
   },
   {
-    link: 'mailto:a1158288818@icloud.com',
+    link: 'mailto:zimmingsong@icloud.com',
     label: 'Email',
     icon: faEnvelope,
   },

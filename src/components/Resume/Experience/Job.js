@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
-import Markdown from 'markdown-to-jsx';
+// import Markdown from 'markdown-to-jsx';
 
 const Job = ({
   data: {
@@ -14,19 +14,20 @@ const Job = ({
       <p className="daterange"> {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}</p>
     </header>
     {summary ? (
-      <Markdown
-        options={{
-          overrides: {
-            p: {
-              props: {
-                className: 'summary',
-              },
-            },
-          },
-        }}
-      >
-        {summary}
-      </Markdown>
+      <p className="summary">{summary}</p>
+      // <Markdown
+      //   options={{
+      //     overrides: {
+      //       p: {
+      //         props: {
+      //           className: 'summary',
+      //         },
+      //       },
+      //     },
+      //   }}
+      // >
+      //   {summary}
+      // </Markdown>
     ) : null}
     {highlights ? (
       <ul className="points">
