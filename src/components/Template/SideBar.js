@@ -19,10 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Ziming(子铭), a junior developer, a CS graduate student in {' '}
+      <p>Hi, I&apos;m Ziming(子铭), a fullstack developer, a CS graduate student at {' '}
         <a href="https://engineering.nyu.edu/academics/programs/computer-science-ms">NYU</a>.
-        Now I intern in <a href="https://www.tiktok.com/">TikTok</a>.
-        Previously, I worked in {' '}
+        Previously, I worked in <a href="https://www.tiktok.com/">TikTok</a>{' '}
         <a href="https://www.microsoft.com/">Microsoft</a> and <a href="https://www.nio.com/">NIO</a>.
         I enjoy exploring the world and connecting people :)
       </p>
