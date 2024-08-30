@@ -57,6 +57,14 @@ const courses = [
     title: 'Computer Network',
     university: 'Tongji University, New York University',
   },
+  {
+    title: 'Cloud Computing and Big Data System',
+    university: 'New York University',
+  },
+  {
+    title: 'Big Data',
+    university: 'New York University',
+  },
 ];
 
 export default courses;
